@@ -1,0 +1,5 @@
+{
+  "name": "AI Timed MCQ Quiz System",
+  "description": "An AI-powered quiz application that generates timed multiple-choice questions on any topic using the Gemini API. It features three difficulty levels, individual question timers, and an overall quiz timer for a challenging experience.",
+  "requestFramePermissions": []
+}
